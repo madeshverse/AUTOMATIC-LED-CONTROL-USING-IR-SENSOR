@@ -104,7 +104,7 @@ int main(void)
 
 CASE 1: LED ON 
 
-<img width="700" height="1000" alt="image" src="https://github.com/user-attachments/assets/291b7637-2939-4e09-9847-a9d7b840a498" />
+<img width="70" height="1000" alt="image" src="https://github.com/user-attachments/assets/291b7637-2939-4e09-9847-a9d7b840a498" />
 
 
 CASE 2: LED OFF
